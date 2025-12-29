@@ -16,7 +16,7 @@ Veritabanı işlemleri için hazır sınıf yapısı (vtclass.py)
 
 Kullanılan teknolojiler:
 
-Python 3.x
+Python 3.12
 
 CustomTkinter (GUI)
 
